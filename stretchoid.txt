@@ -3290,6 +3290,8 @@
 192.241.223.4
 # apzg-0914-x-003.stretchoid.com.
 162.243.147.4
+# azpdss6.stretchoid.com
+20.118.71.95
 # azpg-0725a-000.stretchoid.com.
 198.199.105.49
 # azpg-0725a-001.stretchoid.com.
